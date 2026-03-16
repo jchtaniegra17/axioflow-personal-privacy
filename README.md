@@ -1,1 +1,62 @@
-# axioflow-personal-privacy
+# AxioFlow — Privacy Policy
+
+**Effective Date:** March 16, 2026
+
+## Overview
+
+AxioFlow is a personal finance tracker for iOS. Your privacy is fundamental to how the app is built — all data stays on your device by default.
+
+## Data Collection
+
+**AxioFlow does not collect, transmit, or store any personal data on external servers.**
+
+All financial data — including transactions, accounts, scheduled payments, installments, budgets, categories, and settings — is stored locally on your device using IndexedDB.
+
+## iCloud Sync & Backup (Optional)
+
+If you choose to enable iCloud Sync or iCloud Backup:
+
+- Your data is stored in **your personal iCloud account** managed by Apple.
+- Data is synced or backed up as encrypted JSON files in your iCloud Documents container.
+- AxioFlow does not have access to your iCloud credentials or any other user's data.
+- Backups are automatically deleted after 30 days.
+- You can disable iCloud features at any time in the app's Settings.
+
+## Advertising
+
+AxioFlow displays banner ads via Google AdMob for users on the free (Starter) tier. AdMob may collect device identifiers and limited usage data as described in [Google's Privacy Policy](https://policies.google.com/privacy). Premium users do not see ads.
+
+## Third-Party Services
+
+| Service | Purpose | Privacy Policy |
+|---------|---------|----------------|
+| Apple iCloud | Optional sync & backup | [apple.com/privacy](https://www.apple.com/privacy/) |
+| Google AdMob | Ad serving (Starter tier) | [policies.google.com/privacy](https://policies.google.com/privacy) |
+
+No other third-party SDKs, analytics tools, or tracking services are used.
+
+## Data You Control
+
+- **View:** All your data is visible within the app at all times.
+- **Export:** iCloud Backup creates full snapshots you can restore from.
+- **Delete:** Use "Reset All Data" in Settings to permanently erase everything.
+- **No account required:** AxioFlow does not require sign-up, login, or any personal information.
+
+## Children's Privacy
+
+AxioFlow does not knowingly collect data from children under 13. The app does not require or request any personal information.
+
+## Changes to This Policy
+
+Updates to this policy will be reflected in this repository. The effective date at the top will be revised accordingly.
+
+## Contact
+
+If you have questions about this privacy policy, please open an issue in this repository or contact:
+
+**AxioFlow Suite**
+Email: jchtaniegra17@gmail.com
+
+---
+
+© 2026 AxioFlow Suite. All rights reserved.
