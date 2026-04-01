@@ -1,6 +1,6 @@
 # AxioFlow — Privacy Policy
 
-**Effective Date:** March 16, 2026
+**Effective Date:** April 1, 2026
 
 ## Overview
 
@@ -52,11 +52,8 @@ Updates to this policy will be reflected in this repository. The effective date 
 
 ## Contact
 
-If you have questions about this privacy policy, please open an issue in this repository or contact:
-
-**AxioFlow Suite**
-Email: jchtaniegra17@gmail.com
+If you have questions about this privacy policy, you can reach us through the **Send Feedback** feature in the app (found in the sidebar under System).
 
 ---
 
-© 2026 AxioFlow Suite. All rights reserved.
+© 2026 AxioFlow Personal. All rights reserved.
