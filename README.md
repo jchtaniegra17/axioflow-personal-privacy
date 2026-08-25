@@ -17,10 +17,15 @@ All financial data — including transactions, accounts, scheduled payments, ins
 If you choose to enable iCloud Sync or iCloud Backup:
 
 - Your data is stored in **your personal iCloud account** managed by Apple.
-- Data is synced or backed up as encrypted JSON files in your iCloud Documents container.
+- iCloud Sync uses Apple's CloudKit to keep individual records (transactions, accounts, and other app data) up to date across your devices in your private CloudKit database.
+- iCloud Backup creates timestamped snapshot files in your iCloud Documents container that you can restore from at any time.
 - AxioFlow does not have access to your iCloud credentials or any other user's data.
 - Backups are automatically deleted after 30 days.
 - You can disable iCloud features at any time in the app's Settings.
+
+## Home Screen Widget
+
+If you add the AxioFlow widget to your Home Screen, it reads your balance, income, expenses, and logging streak directly from data already stored on your device to display them. This data is not transmitted anywhere; it is only shown on your device's Home Screen.
 
 ## Advertising
 
@@ -38,7 +43,7 @@ No other third-party SDKs, analytics tools, or tracking services are used.
 ## Data You Control
 
 - **View:** All your data is visible within the app at all times.
-- **Export:** iCloud Backup creates full snapshots you can restore from.
+- **Export:** Download your transactions as a CSV file or PDF report at any time. iCloud Backup also creates full snapshots you can restore from.
 - **Delete:** Use "Reset All Data" in Settings to permanently erase everything.
 - **No account required:** AxioFlow does not require sign-up, login, or any personal information.
 
